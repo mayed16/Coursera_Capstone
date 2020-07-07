@@ -1,1 +1,0 @@
-the notebook will be used to complete the required work for the Applied Data Science Capstone course
